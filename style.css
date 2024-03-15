@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  --color-golden-brown: #c4a47c;
+  --color-pure-white: #fff;
+  --color-pure-black: #000000;
+  --color-dark-brown: #604829;
+  --color-dark-gray: #666;
+  --color-light-gray: #acacac;
+}
+
+.banner {
+  background-image: url("./assets/parallax-imagem1.png");
+  background-size: cover;
+}
